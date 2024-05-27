@@ -1,1 +1,1 @@
-Here is all practice files adn examples 
+Here is all practice files and examples 
