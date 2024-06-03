@@ -5,4 +5,4 @@ def display_welcome_message():
 # Main program
 if __name__ == "__main__":
     display_welcome_message()
-print("Enjoy Your Journye")
+print("Enjoy Your Journey")
